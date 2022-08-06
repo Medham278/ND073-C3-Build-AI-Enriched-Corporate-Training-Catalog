@@ -1,0 +1,14 @@
+{
+    "azureFunctions.deploySubpath": "starter\\Function/bin/Release/netcoreapp3.1/publish",
+    "azureFunctions.projectLanguage": "C#",
+    "azureFunctions.projectRuntime": "~3",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "publish (functions)",
+    "azureFunctions.projectSubpath": "starter\\Function",
+    "dotnetAcquisitionExtension.existingDotnetPath": [
+    "C:\\Program Files\\dotnet\\"
+    ],
+    "azureResourceManagerTools.languageServer.dotnetExePath": "C:\\\\Program Files\\\\dotnet\\\\",
+    "omnisharp.dotnetPath": "C:\\\\Program Files\\\\dotnet\\\\",
+    "omnisharp.sdkPath": "C:\\\\Program Files\\\\dotnet\\\\"
+}
