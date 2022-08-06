@@ -1,6 +1,6 @@
 {
   "@odata.context": "https://udacity-cognitive-search.search.windows.net/$metadata#skillsets/$entity",
-  "@odata.etag": "\"0x8DA77B1D914D936\"",
+  "@odata.etag": "\"0x8DA77C10D7FDEF3\"",
   "name": "azuretable-skillset",
   "description": "Skillset created from the portal. skillsetName: azuretable-skillset; contentField: description; enrichmentGranularity: document; knowledgeStoreStorageAccount: ;",
   "skills": [
